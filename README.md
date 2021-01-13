@@ -51,7 +51,7 @@ jieba analysis plugin for elasticsearch: ***7.7.0***, ***7.4.2***, ***7.3.0***, 
 - run
 
 ```shell
-git clone https://github.com/sing1ee/elasticsearch-jieba-plugin.git --recursive
+git clone https://github.com/RiseInRose/elasticsearch-jieba-plugin.git --recursive
 ./gradlew clean pz
 ```
 - copy the zip file to plugin directory
